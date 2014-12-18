@@ -1,0 +1,33 @@
+---
+title: "Mixed-Effect Models in R"
+author: "Peter von Rohr"
+date: "18 Dec 2014"
+layout: post
+status: publish
+published: false
+output: 
+  html_document:
+     theme: united
+     keep_md: no
+     mathjax: "http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+references:
+- URL: 
+  author:
+  - family: Pinheiro
+    given: Jose C.
+  - family: Bates
+    given: Douglas M.
+  id: PB2000
+  issued:
+    year: 2000
+  title: Mixed-Effect Models in S and S-Plus. Springer
+---
+
+## Introduction
+Mixed-effect models are a powerful and flexible tool to analyze grouped data which arise in areas like agriculture, biology, economics, geophysics and many more. 
+
+`TODO: More motivation should come here ...`
+
+In what follows, the topic of mixed-effect models is introduced around some example data analyses which are believed to be instructive. Theory behind mixed-effect models is summarized as much as it seams useful in explaining results of the examples. As a guideline, the book by Pinheiro and Bates [@PB2000] is used. 
+
+## References
